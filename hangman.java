@@ -78,6 +78,7 @@ public class HangMan {
     // Game mode: Player vs AI
     private static void playerVsAi(){
         // Read words from a file
+        //change this path to the directory where you save "word.txt"
         File file=new File("E:\\DSA\\src\\AI_LAB\\words.txt");
         try (Scanner sc = new Scanner(file)) {
             List<String> words=new ArrayList<>();
