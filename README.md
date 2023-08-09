@@ -85,7 +85,6 @@ To run the Hangman game from the GitHub repository, follow these instructions:
    File file = new File("E:\\DSA\\src\\AI_LAB\\words.txt");
    ```
 
-   This will compile the Java source code and execute the Hangman game.
 
 4. **Follow the Game Instructions**: The game will start running in your terminal. Follow the on-screen instructions to navigate the game menu and make guesses in the Hangman game.
 
